@@ -65,7 +65,7 @@ button {
     background: transparent;
     color: #fff;
     cursor:pointer;
-    position: relative;
+    position: static;
     overflow: hidden;
 }
 span{
